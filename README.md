@@ -1,5 +1,5 @@
 # MEAN 
-## Another boilerplate to beguin hacking
+## Another boilerplate to begin hacking
 
 This (tries) to be a set of achives and directories
 to help in the starting point of a proyect. Adding
