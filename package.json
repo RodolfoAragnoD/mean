@@ -1,0 +1,19 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "description": "A boilerplate to quickly hack something",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoAragnoD/mean.git"
+  },
+  "author": "Rodolfo Aragno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodolfoAragnoD/mean/issues"
+  },
+  "homepage": "https://github.com/RodolfoAragnoD/mean#readme"
+}
